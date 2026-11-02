@@ -1,0 +1,6 @@
+genesis-world
+numpy
+scikit-learn
+opencv-python-headless
+imageio
+imageio-ffmpeg
