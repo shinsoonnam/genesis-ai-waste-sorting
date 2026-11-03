@@ -2,6 +2,9 @@
 
 Physical AI Application Course – Final Project
 
+<img width="495" height="318" alt="image" src="https://github.com/user-attachments/assets/cef49fa9-d8ef-44c6-bc78-a9bcefd11f7e" />
+
+
 ## Overview
 
 An AI-powered robotic waste sorting system developed
