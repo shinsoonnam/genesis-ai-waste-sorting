@@ -39,7 +39,11 @@ shape features and sorts them into designated bins.
 ## Demo Video
 
 YouTube: 
+Only movie
 https://youtu.be/tXQ3KOx5UkY
+
+Movie with cover & subtitles
+https://youtu.be/4-L6U0694u4
 
 ## Results
 
